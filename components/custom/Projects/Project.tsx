@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import Header from "../Header/Header";
 import { motion } from "framer-motion";
 import { TbExternalLink } from "react-icons/tb";
 const projects = [

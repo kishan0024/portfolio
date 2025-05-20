@@ -24,13 +24,13 @@ const About = () => {
           <motion.div className="text-justify gap-2 text-xl mt-3">
             <div>
               {" "}
-              I'm a passionate full-stack developer specializing in React.js &
+              I&apos;m a passionate full-stack developer specializing in React.js &
               Golang. I thrive on blending technical expertise with sleek
               UI/UX design to build high-performing, user-friendly applications.
             </div>
             <div className="mt-3">
               My web development journey started in 2023, and since then,
-              I've continuously evolved, taking on new challenges and keeping up
+              I&apos;ve continuously evolved, taking on new challenges and keeping up
               with the latest technologies. Today, I build cutting-edge web
               applications using TypeScript, ReactJS, TailwindCSS,
               Golang, and more.

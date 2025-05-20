@@ -1,8 +1,5 @@
 import { NavBar } from "@/components/custom/NavBar/NavBar";
 import { HomeTab } from "@/components/custom/Home/Home";
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
-import Header from "@/components/custom/Header/Header";
 import {SkillSection} from "@/components/custom/Skills/skills";
 import {Experiance} from "@/components/custom/Experiance/Experiance";
 import About from "@/components/custom/About/About";

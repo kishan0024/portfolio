@@ -1,9 +1,6 @@
 "use client";
 
 import * as React from "react";
-import Link from "next/link";
-import Image from "next/image";
-import TypewriterComponent from "typewriter-effect";
 
 interface Props{
     icon:React.ReactNode;
